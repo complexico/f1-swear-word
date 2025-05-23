@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Dataset for "Types of Swear Word Used in 2024 Formula 1
+  'Hungarian GP' Race"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: I Putu Dipra Pradnya
+    family-names: Nugraha
+    affiliation: Udayana University
+    email: putudipra03@gmail.com
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Novita
+    family-names: Mulyana
+    email: novitamulyana@unud.ac.id
+    affiliation: Udayana University
+url: 'https://github.com/complexico/f1-swear-word'
+keywords:
+  - swear word
+  - taboo
+  - sociolinguistics
+  - Formula 1
+  - Udayana University
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-05-23'
